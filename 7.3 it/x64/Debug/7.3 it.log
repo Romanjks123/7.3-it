@@ -1,0 +1,3 @@
+﻿  7.3.cpp
+C:\Users\Roman\source\repos\7.3 it\7.3.cpp(72,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  7.3 it.vcxproj -> C:\Users\Roman\source\repos\7.3 it\x64\Debug\7.3 it.exe
